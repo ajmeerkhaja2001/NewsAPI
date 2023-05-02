@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+## how to get the url for the api
+The api is got from the News api website by choosing free apiKey for the developers 
+
+## bootstrap Usage
+bootstrap is used for the for most of the part and also for the New.js , NewsItem.js files where bootstrap is over written for some elements in index.css file 
+## data loading from the NewsApi
+ the data is fetched from the news api URL link provided and the the date is in json format from which the artical array contains all the data of each every news 
+ ## useEffect is used to fetch the data from the Url
+ ## useState is used to concat the data to articels element so that the data can be concatinated for infinit Scroolbar
+ ## back to top button uses scrool to top function which just takes back to top of the page 
+ 
