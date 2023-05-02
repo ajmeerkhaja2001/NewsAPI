@@ -61,6 +61,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### `npm run build` fails to minify
 
+<<<<<<< HEAD
+=======
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+>>>>>>> 602d67dcf95dd4d03eb141e1ae7f0bef10849afd
 
 
 
@@ -77,4 +82,8 @@ bootstrap is used for the for most of the part and also for the New.js , NewsIte
  ## useEffect is used to fetch the data from the Url
  ## useState is used to concat the data to articels element so that the data can be concatinated for infinit Scroolbar
  ## back to top button uses scrool to top function which just takes back to top of the page 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 602d67dcf95dd4d03eb141e1ae7f0bef10849afd
